@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=1080&q=80",
+    "title": "Exploring the Hidden Beaches of Thailand",
+    "author": "Samantha Lee",
+    "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "posted_date": "2025-08-10",
+    "reading_time": 6,
+    "hashtags": ["#travel", "#beach", "#adventure"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&w=1080&q=80",
+    "title": "The Future of Remote Work",
+    "author": "James Carter",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "posted_date": "2025-07-28",
+    "reading_time": 4,
+    "hashtags": ["#future", "#work", "#technology"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-4.0.3&w=1080&q=80",
+    "title": "Healthy Recipes for Busy People",
+    "author": "Emily Johnson",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "posted_date": "2025-09-01",
+    "reading_time": 5,
+    "hashtags": ["#health", "#food", "#lifestyle"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&w=1080&q=80",
+    "title": "AI Trends to Watch in 2025",
+    "author": "Michael Brown",
+    "author_img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "posted_date": "2025-08-15",
+    "reading_time": 7,
+    "hashtags": ["#AI", "#tech", "#innovation"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&w=1080&q=80",
+    "title": "Minimalist Living: A Beginner’s Guide",
+    "author": "Sophia Green",
+    "author_img": "https://randomuser.me/api/portraits/women/24.jpg",
+    "posted_date": "2025-09-05",
+    "reading_time": 3,
+    "hashtags": ["#minimalism", "#lifestyle", "#productivity"]
+  }
+]
